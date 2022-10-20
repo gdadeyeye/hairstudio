@@ -1,0 +1,35 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Missy's Hair Studio</title>
+        <link rel="stylesheet" href="style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+<body>
+    <div id="hair">
+        <h1 class="custom">Missy's HAIR STUDIO</h1>
+        <h2>WE SELL HAIR</h2>
+        <h5>CUSTOM UNITS</h5>
+    </div>
+
+    <div>
+        <h3 style="background-color:rgb(12, 12, 12);">BRAZILLIAN/PERUVIAN/INDIAN</h3>
+        <img src="images/brazillian1.JPG" alt="brazillian" width="200" height="333">
+        <img src="images/brazillian2.JPG" alt="brazillian" width="200" height="333">
+        <img src="images/brazillian3.JPG" alt="brazillian" width="200" height="333">  
+    </div>
+
+    <div class="studio">
+        <img src="images/wig.jpg" alt="brazillian" width="600" height="533">
+    </div>
+<br><br>
+    <div id="media">
+        <a href="#" class="fa fa-facebook"></a>Mzgweens<br>
+        <a href="#" class="fa fa-instagram"></a>Mz_gweens<br>
+        <i style="font-size:24px" class="fa">&#xf095;</i>
+                              Contact: 240-714-2655
+    </div>
+</body>   
+</html>
